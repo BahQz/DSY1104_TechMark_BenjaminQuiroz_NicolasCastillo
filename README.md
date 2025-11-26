@@ -1,2 +1,2 @@
 # DSY1104_TechMark_BenjaminQuiroz_NicolasCastillo
-Evaluacion Parcial 2 FullStack2.
+Evaluacion Parcial 3 + Examen Transversal FullStack2.
